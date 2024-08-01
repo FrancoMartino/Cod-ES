@@ -23,7 +23,7 @@
 #define sensibilidad 100
 
 entero lecturaSensor = 0;
-entero estadoLED = LOW;
+entero estadoLED = BAJO;
 
 inicio
   configurarSalida(LED_INTERNO); // Configurar el pin del LED interno como salida.
