@@ -16,7 +16,7 @@
 #define si_no_si } else if (      // Bloque de código que sigue a la condición "else if" (equivalente a } else if)
 #define repetir(var, condition, interval) for (var; condition; interval){  // Estructura de repetición "for" (equivalente a for)
 #define para_cada(element, array) for (auto &element : array){  // Bucle "for each" para recorrer elementos de un array.
-#define mientras while            // Palabra clave para bucles "while" (equivalente a while)
+#define mientras while (            // Palabra clave para bucles "while" (equivalente a while)
 #define hacer do                   // Palabra clave para bucles "do-while" (equivalente a do)
 #define elegir(i) switch(i){       // Palabra clave para estructuras de selección "switch" (equivalente a switch)
 #define caso case                 // Definición de casos en una estructura "switch" (equivalente a case)
