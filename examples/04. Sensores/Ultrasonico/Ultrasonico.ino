@@ -32,7 +32,7 @@ inicio
 fin
 
 bucle
-  float distancia = sensor.obtenerDistancia(); // Leer la distancia del objeto al sensor en centimetros.
+  flotante distancia = sensor.obtenerDistancia(); // Leer la distancia del objeto al sensor en centimetros.
 
   // Enviar un mensaje por la comunicación serial.
   Serie.imprimir("Distancia: ");
