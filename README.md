@@ -1,4 +1,5 @@
-# Cod-ES: Librería Arduino en Español
+
+# Cod-ES
 
 **Cod-ES** es una librería que traduce la sintaxis de Arduino al español, permitiendo a los usuarios programar en su idioma nativo. Esta librería es ideal para principiantes, educadores o cualquier persona que prefiera trabajar con una sintaxis en español.
 
@@ -28,11 +29,7 @@
 
 Para utilizar la librería, simplemente incluye el archivo principal en tu sketch:
 
-#include <Cod-ES.h>
-
-## Contribuciones
-
-Si deseas contribuir a esta librería, ¡eres bienvenido! Puedes hacerlo mediante pull requests o reportando issues en el repositorio.
+	#include <Cod-ES.h>
 
 ## Licencia
 
